@@ -35,7 +35,7 @@ app.get("/game", async (req, res, next) => {
     let obj = {"words": words, "trueIndex": randSwap, "trueWord": word};
     console.log(obj);
     // В этот хэдер надо записывать хост фронта
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:5000');
+    res.setHeader('Access-Control-Allow-Origin', '*');
     res.status(200);
     res.send(obj)
     return obj;
@@ -44,13 +44,6 @@ app.get("/game", async (req, res, next) => {
     next({ status: 400, message: "failed to get todos" })
   }
 })
-
-app.all('/game', function(req, res, next) {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "X-Requested-With");
-  next()
-});
-
 
 app.use((err, req, res, next) => {
   return res.status(err.status || 400).json({
