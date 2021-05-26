@@ -3500,10 +3500,6 @@
    "WORD2": "агентство"
  },
  {
-   "WORD1": "age pyramid",
-   "WORD2": "стат"
- },
- {
    "WORD1": "aged",
    "WORD2": "старый"
  },
@@ -3602,10 +3598,6 @@
  {
    "WORD1": "aggravation",
    "WORD2": "ухудшение"
- },
- {
-   "WORD1": "aggregate index",
-   "WORD2": "стат"
  },
  {
    "WORD1": "aggregated",
@@ -9072,14 +9064,6 @@
    "WORD2": "область"
  },
  {
-   "WORD1": "area sample",
-   "WORD2": "стат"
- },
- {
-   "WORD1": "area sampling",
-   "WORD2": "стат"
- },
- {
    "WORD1": "areal",
    "WORD2": "региональный"
  },
@@ -9222,10 +9206,6 @@
  {
    "WORD1": "arithmetic average",
    "WORD2": "среднеарифметическая"
- },
- {
-   "WORD1": "arithmetic mean",
-   "WORD2": "стат"
  },
  {
    "WORD1": "arithmetical",
@@ -9658,10 +9638,6 @@
  {
    "WORD1": "artificial",
    "WORD2": "искусственный"
- },
- {
-   "WORD1": "artificial sample",
-   "WORD2": "стат"
  },
  {
    "WORD1": "artificiality",
@@ -11704,16 +11680,8 @@
    "WORD2": "среднегеометрическая"
  },
  {
-   "WORD1": "average deviation",
-   "WORD2": "стат"
- },
- {
    "WORD1": "average down",
    "WORD2": "бирж"
- },
- {
-   "WORD1": "average error",
-   "WORD2": "стат"
  },
  {
    "WORD1": "average out",
@@ -12332,10 +12300,6 @@
    "WORD2": "балалайка"
  },
  {
-   "WORD1": "balanced sample",
-   "WORD2": "стат"
- },
- {
    "WORD1": "balcony",
    "WORD2": "балкон"
  },
@@ -12782,10 +12746,6 @@
  {
    "WORD1": "basal",
    "WORD2": "основной"
- },
- {
-   "WORD1": "base year",
-   "WORD2": "стат"
  },
  {
    "WORD1": "base-ball",
@@ -17928,10 +17888,6 @@
    "WORD2": "сантиграмм"
  },
  {
-   "WORD1": "centile curve",
-   "WORD2": "стат"
- },
- {
    "WORD1": "centime",
    "WORD2": "сантим"
  },
@@ -21412,10 +21368,6 @@
    "WORD2": "условный"
  },
  {
-   "WORD1": "conditional distribution",
-   "WORD2": "стат"
- },
- {
    "WORD1": "conditionally",
    "WORD2": "условно"
  },
@@ -22442,10 +22394,6 @@
  {
    "WORD1": "continuous",
    "WORD2": "непрерывный"
- },
- {
-   "WORD1": "continuous sample",
-   "WORD2": "стат"
  },
  {
    "WORD1": "continuously",
@@ -24336,10 +24284,6 @@
    "WORD2": "корка"
  },
  {
-   "WORD1": "crude sample",
-   "WORD2": "стат"
- },
- {
    "WORD1": "crudely",
    "WORD2": "грубо"
  },
@@ -24766,10 +24710,6 @@
  {
    "WORD1": "currencies",
    "WORD2": "валюта"
- },
- {
-   "WORD1": "current weighting",
-   "WORD2": "стат"
  },
  {
    "WORD1": "currentness",
@@ -27378,10 +27318,6 @@
  {
    "WORD1": "desultory",
    "WORD2": "несистематический"
- },
- {
-   "WORD1": "detailed breakdown",
-   "WORD2": "стат"
  },
  {
    "WORD1": "detain",
@@ -39768,10 +39704,6 @@
    "WORD2": "окончание"
  },
  {
-   "WORD1": "graduation curve",
-   "WORD2": "стат"
- },
- {
    "WORD1": "grain",
    "WORD2": "зерно"
  },
@@ -49156,10 +49088,6 @@
    "WORD2": "решетка"
  },
  {
-   "WORD1": "lattice sampling",
-   "WORD2": "стат"
- },
- {
    "WORD1": "latvia",
    "WORD2": "латвия"
  },
@@ -50550,10 +50478,6 @@
  {
    "WORD1": "logician",
    "WORD2": "логик"
- },
- {
-   "WORD1": "logistic curve",
-   "WORD2": "стат"
  },
  {
    "WORD1": "logotype",
@@ -53988,10 +53912,6 @@
    "WORD2": "смешивать"
  },
  {
-   "WORD1": "mixed sampling",
-   "WORD2": "стат"
- },
- {
    "WORD1": "mixer",
    "WORD2": "миксер"
  },
@@ -55212,10 +55132,6 @@
    "WORD2": "мат"
  },
  {
-   "WORD1": "multiple sampling",
-   "WORD2": "стат"
- },
- {
    "WORD1": "multiplecolumn",
    "WORD2": "многоколоночный"
  },
@@ -55264,10 +55180,6 @@
    "WORD2": "умножать"
  },
  {
-   "WORD1": "multiply sample",
-   "WORD2": "стат"
- },
- {
    "WORD1": "multipoint",
    "WORD2": "многоточечный"
  },
@@ -55294,10 +55206,6 @@
  {
    "WORD1": "multistable",
    "WORD2": "мультиустойчивый"
- },
- {
-   "WORD1": "multistage sample",
-   "WORD2": "стат"
  },
  {
    "WORD1": "multistaged",
@@ -58490,10 +58398,6 @@
  {
    "WORD1": "optional",
    "WORD2": "дополнительный"
- },
- {
-   "WORD1": "optional sampling",
-   "WORD2": "стат"
  },
  {
    "WORD1": "optoisolation",
@@ -68772,10 +68676,6 @@
    "WORD2": "вероятностный"
  },
  {
-   "WORD1": "probability sampling",
-   "WORD2": "стат"
- },
- {
    "WORD1": "probability value",
    "WORD2": "вероятность"
  },
@@ -69246,10 +69146,6 @@
  {
    "WORD1": "progressive",
    "WORD2": "прогрессивный"
- },
- {
-   "WORD1": "progressive average",
-   "WORD2": "стат"
  },
  {
    "WORD1": "progressiveness",
@@ -72792,10 +72688,6 @@
    "WORD2": "произвольный"
  },
  {
-   "WORD1": "random distribution",
-   "WORD2": "стат"
- },
- {
    "WORD1": "randomization",
    "WORD2": "рандомизация"
  },
@@ -75362,10 +75254,6 @@
  {
    "WORD1": "reporter",
    "WORD2": "репортер"
- },
- {
-   "WORD1": "reporting unit",
-   "WORD2": "стат"
  },
  {
    "WORD1": "repositary",
@@ -78104,24 +77992,8 @@
    "WORD2": "сампан"
  },
  {
-   "WORD1": "sample coefficient",
-   "WORD2": "стат"
- },
- {
-   "WORD1": "sample method",
-   "WORD2": "стат"
- },
- {
-   "WORD1": "sample unit",
-   "WORD2": "стат"
- },
- {
    "WORD1": "sampler",
    "WORD2": "квантизатор"
- },
- {
-   "WORD1": "sampling ratio",
-   "WORD2": "стат"
  },
  {
    "WORD1": "samplings",
@@ -84576,10 +84448,6 @@
    "WORD2": "мат"
  },
  {
-   "WORD1": "simple sample",
-   "WORD2": "стат"
- },
- {
    "WORD1": "simple-hearted",
    "WORD2": "наивный"
  },
@@ -84766,10 +84634,6 @@
  {
    "WORD1": "single",
    "WORD2": "единственный"
- },
- {
-   "WORD1": "single sampling",
-   "WORD2": "стат"
  },
  {
    "WORD1": "single standard",
@@ -85190,10 +85054,6 @@
  {
    "WORD1": "sketchy",
    "WORD2": "схематический"
- },
- {
-   "WORD1": "skew distribution",
-   "WORD2": "стат"
  },
  {
    "WORD1": "skewer",
@@ -88732,10 +88592,6 @@
    "WORD2": "расточитель"
  },
  {
-   "WORD1": "spending unit",
-   "WORD2": "стат"
- },
- {
    "WORD1": "spends",
    "WORD2": "тратить"
  },
@@ -91878,10 +91734,6 @@
  {
    "WORD1": "stratified",
    "WORD2": "стратифицированный"
- },
- {
-   "WORD1": "stratified sampling",
-   "WORD2": "стат"
  },
  {
    "WORD1": "stratifies",
@@ -96130,10 +95982,6 @@
  {
    "WORD1": "systematic",
    "WORD2": "систематический"
- },
- {
-   "WORD1": "systematic error",
-   "WORD2": "стат"
  },
  {
    "WORD1": "systematical",
@@ -111046,10 +110894,6 @@
  {
    "WORD1": "weighmaster",
    "WORD2": "весовщик"
- },
- {
-   "WORD1": "weight base",
-   "WORD2": "стат"
  },
  {
    "WORD1": "weightiness",
