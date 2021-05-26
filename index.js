@@ -4,7 +4,7 @@ const bodyParser = require("body-parser")
 const PORT = process.env.PORT || 3000
 const fs = require('fs');
 
-let rawdata = fs.readFileSync('./data/dictionaryNew.json');
+let rawdata = fs.readFileSync('./data/dict.json');
 let dict = JSON.parse(rawdata);
 
 app.use(bodyParser.json())
